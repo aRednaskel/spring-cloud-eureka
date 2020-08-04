@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/auctionApp/auctionApp.iml" filepath="$PROJECT_DIR$/auctionApp/auctionApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bankApp/bankApp.iml" filepath="$PROJECT_DIR$/bankApp/bankApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/naGita.iml" filepath="$PROJECT_DIR$/.idea/naGita.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-discovery-server/service-discovery-server.iml" filepath="$PROJECT_DIR$/service-discovery-server/service-discovery-server.iml" />
+    </modules>
+  </component>
+</project>
