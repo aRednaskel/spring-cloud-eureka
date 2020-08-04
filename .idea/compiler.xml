@@ -6,14 +6,16 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="bankingApp" />
+        <module name="auctionApp" />
         <module name="bankApp" />
         <module name="service-discovery-server" />
-        <module name="auctionApp" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="auctionApp" target="1.8" />
       <module name="bankApp" target="1.8" />
+      <module name="bankingApp" target="1.8" />
       <module name="service-discovery-server" target="11" />
     </bytecodeTargetLevel>
   </component>
@@ -21,6 +23,7 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="auctionApp" options="-parameters" />
       <module name="bankApp" options="-parameters" />
+      <module name="bankingApp" options="-parameters" />
       <module name="service-discovery-server" options="-parameters" />
     </option>
   </component>

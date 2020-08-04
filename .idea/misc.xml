@@ -6,6 +6,7 @@
         <option value="$PROJECT_DIR$/bankApp/pom.xml" />
         <option value="$PROJECT_DIR$/auctionApp/pom.xml" />
         <option value="$PROJECT_DIR$/service-discovery-server/pom.xml" />
+        <option value="$PROJECT_DIR$/bankingApp/pom.xml" />
       </list>
     </option>
   </component>
